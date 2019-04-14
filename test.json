@@ -1,5 +1,6 @@
 {
 	"test":false,
 	"test2":5,
-	"test3":2.5
+	"test3":2.5,
+	"test4":true
 }
